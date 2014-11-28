@@ -58,4 +58,12 @@
         <group>KrZZIs3011Si</group>
     </student>
 
+ <student>
+	<firstname>Monika</firstname>
+	<lastname>Sójkowska</lastnamename>
+	<email>monika_sojkowska@gmail.com</email>
+	<github>vemens</github>
+	<group>KrZZIs3011Io</group>
+ </student>
+	
 </students>
